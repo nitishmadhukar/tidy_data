@@ -1,8 +1,9 @@
 # Project: Getting and Cleaning data
 
-Description: Data is collected from the accelerometers of Samsung Galaxy S smartphone. The data consists of readings from 30 members. Every person performed 6 activities, namely, 'WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING'. The dataset is segregated into 2 parts. The training set consists of 70% of volunteer's readings, remaining 30% is in the testing set. 
+**Description:** 
+Data is collected from the accelerometers of Samsung Galaxy S smartphone. The data consists of readings from 30 members. Every person performed 6 activities, namely, 'WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING'. The dataset is segregated into 2 parts. The training set consists of 70% of volunteer's readings, remaining 30% is in the testing set. 
 
-Steps to follow: 
+**Steps to follow:** 
 1. Download the folder https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 2. Unzip the folder 
