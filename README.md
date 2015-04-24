@@ -21,5 +21,5 @@ Steps to follow:
 
 5. The R script outputs a file named tidy_data.txt
 
-**For information on the data refer CodeBook.md**
+**For information on the data refer [CodeBook.md](https://github.com/nitishmadhukar/tidy_data/blob/master/CodeBook.md)**
   
